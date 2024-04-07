@@ -1,0 +1,8 @@
+*.csv
+*.png
+*.keras
+*.pth
+__pycache__/
+trained_generators/
+log/
+model/
