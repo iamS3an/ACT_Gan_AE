@@ -1,4 +1,4 @@
-# ACT_Gan_AE
+# ACT_gan_ae
 
 This repository contains code for generating and analyzing adversarial datasets for intrusion detection, specifically focusing on the UNSW-NB15 dataset.
 
